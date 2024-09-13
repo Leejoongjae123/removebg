@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+mangum
+Pillow
+rembg
